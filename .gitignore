@@ -1,0 +1,14 @@
+# Ignore Gradle-related files and directories
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Ignore IntelliJ IDEA configuration files
+.idea/
+
+# Ignore build artifacts
+build/
+
+# Ignore temporary or application-specific files
+Run
